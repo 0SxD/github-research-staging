@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Secrets (guard)
+.env
+.env.*
+*.key
+*.secret
+*FLAG-001*
+
+# Local drafts that should never be pushed
+_drafts/
+_scratch/
