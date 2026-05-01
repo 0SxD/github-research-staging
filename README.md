@@ -1,6 +1,10 @@
+> **Status: Evaluation window (private under 0SxD).** This repository is staged
+> for evaluation review. License terms in LICENSE govern; contents may move,
+> change, or be withdrawn. See LICENSE before any use.
+
 ---
 title: "research-wiki"
-owner: Austin B. Green
+owner: Sage
 github: 0SxD
 license: MIT
 date: 2026-04-19
@@ -54,4 +58,4 @@ The human's job is curation, direction, and good questions. The agent's job is e
 
 ## Attribution
 
-Pattern adapted from Andrej Karpathy's public "LLM Wiki" gist (2026). Adaptation and all original content under MIT (Austin B. Green, 2026). Upstream acknowledgements in [`ATTRIBUTION.md`](./ATTRIBUTION.md).
+Pattern adapted from Andrej Karpathy's public "LLM Wiki" gist (2026). Adaptation and all original content under MIT (Sage / 0SxD, 2026). Upstream acknowledgements in [`ATTRIBUTION.md`](./ATTRIBUTION.md).

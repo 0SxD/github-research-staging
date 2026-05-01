@@ -2,16 +2,16 @@
 title: Attribution and Provenance
 type: attribution
 date: 2026-04-19
-owner: Austin B. Green
+owner: Sage
 ---
 
 # Attribution and Provenance
 
-This repository is a personal research wiki published by Austin B. Green (GitHub: [0SxD](https://github.com/0SxD)).
+This repository is a personal research wiki published by Sage (GitHub: [0SxD](https://github.com/0SxD)).
 
 ## Authorship
 
-Original wiki content, schema, and prompts are authored by Austin B. Green and released under MIT (Austin B. Green, 2026).
+Original wiki content, schema, and prompts are authored by Sage and released under MIT (Sage / 0SxD, 2026).
 
 ## Pattern source
 
@@ -27,4 +27,4 @@ Documents placed under `raw/` retain their original copyrights. They are held lo
 
 ## Contact
 
-Austin B. Green. GitHub: [0SxD](https://github.com/0SxD).
+Sage / 0SxD. GitHub: [0SxD](https://github.com/0SxD).

@@ -1,6 +1,6 @@
 ---
 title: "research-wiki schema"
-owner: Austin B. Green
+owner: Sage
 type: schema
 date: 2026-04-19
 ---
@@ -76,4 +76,4 @@ Write findings to `wiki/log.md` with prefix `## [YYYY-MM-DD] lint | <scope>`.
 
 ## License
 
-MIT (Austin B. Green, 2026). Pattern derived from Andrej Karpathy's LLM Wiki gist.
+MIT (Sage / 0SxD, 2026). Pattern derived from Andrej Karpathy's LLM Wiki gist.
