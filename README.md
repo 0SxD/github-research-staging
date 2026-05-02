@@ -1,6 +1,4 @@
-> **Status: Evaluation window (private under 0SxD).** This repository is staged
-> for evaluation review. License terms in LICENSE govern; contents may move,
-> change, or be withdrawn. See LICENSE before any use.
+> Status: R&D / scratchpad. Part of Sage / 0SxD's prompt-engineering research portfolio. Content may move, change, or be withdrawn. See LICENSE for terms.
 
 ---
 title: "research-wiki"
